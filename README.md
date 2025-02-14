@@ -5,21 +5,21 @@ We use the Medical Insurance Dataset from Kaggle:
 🔗https://www.kaggle.com/datasets/mirichoi0218/insurance
 
 ->The dataset includes:
-Age
-Gender
-BMI (Body Mass Index)
-Number of Children
-Smoking Status
-Region
-Medical Insurance Charges (Target Variable)
+Age,
+Gender,
+BMI (Body Mass Index),
+Number of Children,
+Smoking Status,
+Region,
+Medical Insurance Charges (Target Variable),
 
 ->Methodology
-Data Preprocessing
-Model Training & Evaluation
-Performance Metrics
+Data Preprocessing,
+Model Training & Evaluation,
+Performance Metrics,
 
 -> Best Performing Model
  The Random Forest Regression Model achieved the highest accuracy with:
- Higher R² score
- Lower RMSE
- Better handling of non-linear relationships
+ Higher R² score,
+ Lower RMSE,
+ Better handling of non-linear relationships .
